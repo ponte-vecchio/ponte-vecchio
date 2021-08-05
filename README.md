@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   
- <img src="https://github-readme-stats.vercel.app/api?username=ponte-vecchio&show_icons=true&theme=gruvbox">
+ <img src="https://github-readme-stats.vercel.app/api?username=ponte-vecchio&show_icons=false&theme=gruvbox">
   
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ponte-vecchio">
   
