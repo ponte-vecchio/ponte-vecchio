@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 <h3 align="center"> About me </h3>
 
-<p align="center">PhD in Education Research & Learning Analytics [2021 -  ]<br>ArchLinux & Debian user</p>
+<p align="center">ArchLinux & Debian user</p>
 
 <h3 align="center"> Basic Stats </h3>
 
